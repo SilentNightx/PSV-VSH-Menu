@@ -3,6 +3,9 @@ A VSH menu taiHEN plugin for the PS VITA games and homebrews. Currently does not
 
 # This plugin is no longer maintained. Please use something else or don't use it. Any issues reported will be ignored.
 
+# Fork
+Only forked so I could upload the final build of PSV-VSH-Menu by joel16 so that others don't have to build it themselves. I helped test this back in the day.
+
 Features
 --------------------------------------------------------------------------------
 - Control CPU/GPU clock states separately for each title and save them.
